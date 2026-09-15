@@ -279,26 +279,28 @@ http://107.167.16.138/zeeclassic/index.m3u8?token=test
 #EXTINF: -1  tvg-name="South Flix" group-title="HINDI" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png",Zee South Flix
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET",IN: STAR SPORTS 1 Hindi
-http://mxonlive.xyz/live/xap/167573.m3u8?e=1789473781&token=278c07a47c08bcb137b9ab2cede05000f0069fb4659805b04904901e20b27812
+http://mxonlive.xyz/live/xap/167573.m3u8?e=1789543126&token=498c2eb5e35db38439cddec7d4d3bc6a1febdfc04b5817885e45154f025c103d
 #EXTINF:-1  tvg-name="IND: Star Sports 2 Hindi HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-2-hk-in.png" group-title="CRICKET",IND: Star Sports 2 Hindi HD
-http://mxonlive.xyz/live/xap/167574.m3u8?e=1789473781&token=d1c180459695089c175ccd9bacd68485ec5b0f9a500702c72ac369321b1a2b5d
+http://mxonlive.xyz/live/xap/167574.m3u8?e=1789543126&token=d444202acebe2d8ac124d86dce5614c8d4938a9fd77a71a00d560062eed921d5
+#EXTINF:-1  tvg-name="IN: Star Sports tamil 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CRICKET",IN: Star Sports tamil 1
+http://mxonlive.xyz/live/xap/392965.m3u8?e=1789543126&token=677da59064d88f2c3dfd01edeada4c562b33e390a7cfdeb413fb5d81043a73d7
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET",IN | Star Sports 1 HD
-http://mxonlive.xyz/live/xap/167575.m3u8?e=1789473781&token=3ed9b266af78c98d854f3d946dcfe5ee790549b8183a05c81df2ba7b0177691b
+http://mxonlive.xyz/live/xap/167575.m3u8?e=1789543126&token=42977ccc3a34882b4a63ffc652f1719c341b9f6a43cf54674cdeaf4f1b9bd83a
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN | Star Sports 2 HD" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="CRICKET",IN | Star Sports 2 HD
-http://mxonlive.xyz/live/xap/167576.m3u8?e=1789473781&token=829529ce5639a4741521db7bc8fb0a280f4223e85b0a42a80425e8ecb873f665
+http://mxonlive.xyz/live/xap/167576.m3u8?e=1789543126&token=ae5be84e9ccbd138ac0b910b1272d412906bbe105f755d633048e26f349ec09e
 #EXTINF:-1 tvg-id="starsports3.in" tvg-name="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="CRICKET",IN | Star Sports 3 HD
-http://mxonlive.xyz/live/xap/167577.m3u8?e=1789473781&token=fdb94c5a571c00acece64b1c698d071fe350765c0c52f4a0b0b9fe747ac8d0d5
+http://mxonlive.xyz/live/xap/167577.m3u8?e=1789543126&token=2f9e6523aee0ca915e2e94ac562f7e0f561e0e47f09fec2131733dc2fdfa745c
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN | STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="CRICKET",IN | STAR SPORTS SELECT 1
-http://mxonlive.xyz/live/xap/167578.m3u8?e=1789473781&token=816e51d95c2f783960ed79e7da5ce9db2738c848cb475f4c28635017ee1b2cb2
+http://mxonlive.xyz/live/xap/167578.m3u8?e=1789543126&token=8c7b723797fb1dc53f7566a7d655d0765b2ce66d8e9181f66282e1745c582eae
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="CRICKET",IN | STAR SPORTS SELECT 2
-http://mxonlive.xyz/live/xap/167579.m3u8?e=1789473781&token=f480ae8080f56d5ab12b78ecab6e6e7c5de0b7fbb373082436280fe85857a019
+http://mxonlive.xyz/live/xap/167579.m3u8?e=1789543126&token=99fd1d7e73f1db21e47ffff4e1f053b7ad9c73124fca612a35463c4df1a5bd4f
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 HINDI (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="CRICKET",Star Sport 1 HINDI (4K)
-http://mxonlive.xyz/live/xap/109986.m3u8?e=1789473781&token=0ef98e0e583ead2f0f45c085408b405223fcbea4bb04de52b4ba28cdd8bf3967
+http://mxonlive.xyz/live/xap/109986.m3u8?e=1789543126&token=453b8ab29f1e7cfa43c3e44ccd91ce104ee2bb8fcccd976243c3452c7151bd45
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="CRICKET",Star Sports 1 (4K)
-http://mxonlive.xyz/live/xap/109987.m3u8?e=1789473781&token=8b965528b01202f5b87652692ec88b7075a4e437f0e42804821c9be5cd0554cb
+http://mxonlive.xyz/live/xap/109987.m3u8?e=1789543126&token=995ca2fdf60a9d83c1e617749be78c200b63cf42190038e79bc53ff64b29693a
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="Star Sports 2 (4K)"  group-title="CRICKET",Star Sports 2 (4K)
-http://mxonlive.xyz/live/xap/109988.m3u8?e=1789473781&token=7ea4f2e666f1cc1fd3b1edcdf43fca90fef6aa4d4e2c22c19d410cc642ad27c1
+http://mxonlive.xyz/live/xap/109988.m3u8?e=1789543126&token=44fb4802773b82c1e363642072916a7451297c52331e36ed98e393fc8aabfa8b
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="CRICKET",Star Sports Select 1 (4K)
-http://mxonlive.xyz/live/xap/109993.m3u8?e=1789473781&token=89b430b556cc997e271acc603d278e746f6ef7b74d3828bc202aaa0dc6468ab4
+http://mxonlive.xyz/live/xap/109993.m3u8?e=1789543126&token=970d1e396a6efdab213c888f0daebc364af155b8bdde999127a0cc5d0a416e23
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports2_in.jpg" group-title="CRICKET",Star Sports Select 2 (4K)
-http://mxonlive.xyz/live/xap/109994.m3u8?e=1789473781&token=d3c59529e2ae42ab34d52d97b2fb64dc927cc8c977e08b485155f1aa8159487c
+http://mxonlive.xyz/live/xap/109994.m3u8?e=1789543126&token=0ac80a321b52759aaed98ea121e73476f4a30330fbd237cf4272696c7862dfa5
