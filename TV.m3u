@@ -352,3 +352,111 @@ http://mxonlive.xyz/live/xap/109988.m3u8?e=1789543126&token=44fb4802773b82c1e363
 http://mxonlive.xyz/live/xap/109993.m3u8?e=1789543126&token=970d1e396a6efdab213c888f0daebc364af155b8bdde999127a0cc5d0a416e23
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports2_in.jpg" group-title="CRICKET",Star Sports Select 2 (4K)
 http://mxonlive.xyz/live/xap/109994.m3u8?e=1789543126&token=0ac80a321b52759aaed98ea121e73476f4a30330fbd237cf4272696c7862dfa5
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMxWAam/STAR_JALSHA.png" tvg-name="Star Jalsha" group-title="BANGLA",Star Jalsha
+http://line.lux-4k.cc/live/C69401/040F66/63525.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMY8Wgp/Zee_Bangla_logo.png" tvg-name="Zee Bangla" group-title="BANGLA",Zee Bangla
+http://line.lux-4k.cc/live/C69401/040F66/112571.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHOjT/Colors_Bangla.png" tvg-name="Colors Bangla" group-title="BANGLA",Colors Bangla
+http://line.lux-4k.cc/live/C69401/040F66/63526.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHSTL/Sun_Bangla.png" tvg-name="Sun Bangla" group-title="BANGLA",Sun Bangla
+http://line.lux-4k.cc/live/C69401/040F66/126098.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHq3x/Enterr10_Bangla.png" tvg-name="Enter 10 Bangla" group-title="BANGLA",Enter 10 Bangla
+http://line.lux-4k.cc/live/C69401/040F66/126105.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHltr/Zee_Bangla_Cinema.png" tvg-name="Zee Bangla Cinema" group-title="BANGLA",Zee Bangla Cinema
+http://line.lux-4k.cc/live/C69401/040F66/112575.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHdLG/Colors_Bangla_Cinema.png" tvg-name="Colors Cinema" group-title="BANGLA",Colors Cinema
+http://skyfilex.fun/live/22H1pUYT4/uevuKVCK81/271038.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHXqm/Jalsha_Movies_HD.png" tvg-name="Jalsha Movies" group-title="BANGLA",Jalsha Movies
+http://line.lux-4k.cc/live/C69401/040F66/1458372.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHrkW/Sony_Aath.png" tvg-name="Sony Aath" group-title="BANGLA",Sony Aath
+http://line.lux-4k.cc/live/C69401/040F66/108839.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMbHGcS/Aakash_Aath_Logo.png" tvg-name="Akash Bangla" group-title="BANGLA",Akash Bangla
+http://line.lux-4k.cc/live/C69401/040F66/108785.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgmRnCF97pyJ8foj88M6xsW_XfpYO4xvMEV4iwGpXzA&s=10" tvg-name="Tata Play Cinema" group-title="BANGLA",Tata Play HD
+http://line.lux-4k.cc/live/C69401/040F66/63329.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" tvg-name="News18 Bangla" group-title="BANGLA",News18 Bangla
+http://line.beemax.cc/live/CD786D/28C27D/108838.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMAB6sp/T_SPORTS.jpg" tvg-name="T Sports" group-title="SPORTS",T Sports
+http://line.beemax.cc/live/CD786D/28C27D/756462.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMbDazF/unite_sports_2.jpg" tvg-name="Unite8 Sports 2" group-title="SPORTS",Unite8 Sports 2
+http://line.lux-4k.cc/live/C69401/040F66/63547.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMEGD74/FOX_SPORTS_CRICKET.png" tvg-name="Fox 501 Cricket" group-title="SPORTS",Fox 501 Cricket
+http://pro.testbestrest.one:80/play/live.php?mac=00%3A1A%3A79%3A5E%3AF0%3AF6&stream=852135&extension=ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4xn9/A_Sports.png" tvg-name="A Sports" group-title="SPORTS",A Sports
+http://line.lux-4k.cc/live/C69401/040F66/501756.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4AQ6/Star_Sports_1_HD.png" tvg-name="Star Sports 1" group-title="SPORTS",Star Sports 1
+http://line.lux-4k.cc/live/C69401/040F66/63541.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4CLF/Star_Sports_2.png" tvg-name="Star Sports 2" group-title="SPORTS",Star Sports 2
+http://line.lux-4k.cc/live/C69401/040F66/63540.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4ExK/Star_Sports_3.png" tvg-name="Star Sports 3" group-title="SPORTS",Star Sports 3
+http://line.lux-4k.cc/live/C69401/040F66/63314.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4YqX/Star_Sports_Select_1_HD.png" tvg-name="Star Sports Select 1" group-title="SPORTS",Star Sports Select 1
+http://line.lux-4k.cc/live/C69401/040F66/63539.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4ckh/Star_Sports_Select_2_HD.png" tvg-name="Star Sports Select 2" group-title="SPORTS",Star Sports Select 2
+http://line.lux-4k.cc/live/C69401/040F66/63498.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMCnikf/SONY_SportsTen1_HD.png" tvg-name="Sony Ten 1 HD" group-title="SPORTS",Sony Ten 1 HD
+http://line.lux-4k.cc/live/C69401/040F66/63537.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMCn5Fm/SONY_SportsTen2_HD.png" tvg-name="Sony Ten 2 HD" group-title="SPORTS",Sony Ten 2 HD
+http://line.lux-4k.cc/live/C69401/040F66/63536.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMCnUqP/Sony_Sports_Ten_3_Hindi_HD.png" tvg-name="Sony Ten 3 HD" group-title="SPORTS",Sony Ten 3 HD
+http://line.lux-4k.cc/live/C69401/040F66/63535.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4mPa/Sony_Sports_Ten_5.png" tvg-name="Sony Ten 5 HD" group-title="SPORTS",Sony Ten 5 HD
+http://line.lux-4k.cc/live/C69401/040F66/63499.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4P9S/PTV_Sports.png" tvg-name="PTV Sports" group-title="SPORTS",PTV Sports
+http://line.lux-4k.cc/live/C69401/040F66/99753.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMxSf00/Willow_Cricket.png" tvg-name="Willow Cricket" group-title="SPORTS",Willow Cricket
+http://line.lux-4k.cc/live/C69401/040F66/63439.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMxSVlW/Willow_Xtra.png" tvg-name="Willow Extra" group-title="SPORTS",Willow Extra
+http://vca.easy747.com:80/live/donad220/8U01MGV/1404523.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMABNyP/TEN_Cricket.png" tvg-name="Ten Sports" group-title="SPORTS",Ten Sports
+http://line.lux-4k.cc/live/C69401/040F66/99708.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-gR3y60EDmQTDmIO0ZTnSYErRR8UwtL3kKfAyYKOnA&s" tvg-name="Hungama" group-title="KIDS",Hungama
+http://euro-deluxe.com:8080/5802135f2e928826/a9ed30/1443722?play_token=xMnNwYZpau&mac=00:1A:79:0E:39:2A
+#EXTINF:-1 tvg-logo="https://i.im.ge/QM3FTK0/SUPER_HUNGAMA.png" tvg-name="Super Hungama" group-title="KIDS",Super Hungama
+http://ege09.com:8080/zeengvs6/1rg6Ckau/1443722?play_token=pMHkkzVaxU&mac=00:1A:79:08:52:3e
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMAB5oD/CARTOON_NETWORK.png" tvg-name="Cartoon Network" group-title="KIDS",Cartoon Network
+http://line.lux-4k.cc/live/C69401/040F66/112886.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMCTofP/Discovery_Kids.png" tvg-name="Discovery Kids" group-title="KIDS",Discovery kids
+http://line.lux-4k.cc/live/C69401/040F66/112942.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMApnep/Duronto_TV.png" tvg-name="Duronto TV" group-title="KIDS",Duronto TV
+http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/433.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMABmBq/POGO.png" tvg-name="POGO" group-title="KIDS",POGO
+http://line.lux-4k.cc/live/C69401/040F66/112864.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMABxoW/STAR_PLUS_HD.png" tvg-name="Star Plus" group-title="HINDI",Star Plus
+http://line.lux-4k.cc/live/C69401/040F66/63563.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMCn9jr/SONY_ENTERTAINMENT_HD.png" tvg-name="Sony Entertainment HD" group-title="HINDI",Sony Entertainment HD
+http://line.lux-4k.cc/live/C69401/040F66/63588.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMCnjRW/SONY_SAB_HD.png" tvg-name="Sony Sab HD" group-title="HINDI",Sony Sab HD
+http://line.lux-4k.cc/live/C69401/040F66/63566.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMxwXm0/ZEE_TV.png" tvg-name="Zee TV HD" group-title="HINDI",Zee TV
+http://line.lux-4k.cc/live/C69401/040F66/63561.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMxwFhL/Colors_tv.png" tvg-name="Colors TV" group-title="HINDI",Colors TV
+http://line.lux-4k.cc/live/C69401/040F66/63576.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMxwOYG/_TV_HD.png" tvg-name="& TV" group-title="HINDI",& TV
+http://line.lux-4k.cc/live/C69401/040F66/63579.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMABAmm/SONY_MAX_HD.png" tvg-name="Sony Max HD" group-title="HINDI",Sony Max HD
+http://line.lux-4k.cc/live/C69401/040F66/63568.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMABCZr/SONY_PIX_HD.png" tvg-name="Sony Pix HD" group-title="HINDI",Sony Pix HD
+http://line.lux-4k.cc/live/C69401/040F66/63582.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMxwSaa/Colors_Cineplex.png" tvg-name="Color Cineplex" group-title="HINDI",Color Cineplex
+http://line.lux-4k.cc/live/C69401/040F66/63577.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMxwlZT/Star_Gold_HD.png" tvg-name="Star Gold HD" group-title="HINDI",Star Gold HD
+http://line.lux-4k.cc/live/C69401/040F66/63565.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMxwuoc/Star_Gold_2.png" tvg-name="Star Gold 2 HD" group-title="HINDI",Star Gold 2 HD
+http://line.lux-4k.cc/live/C69401/040F66/143806.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/SGSHD.jpg" tvg-name="Star Gold Select HD" group-title="HINDI",Star Gold Select HD
+http://line.lux-4k.cc/live/C69401/040F66/63564.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMxw1Bx/AND_PICTURES_HD.png" tvg-name="& Pictures HD" group-title="HINDI",& Pictures HD
+http://line.lux-4k.cc/live/C69401/040F66/63580.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMCT2x0/Zee_Cinema_HD.png" tvg-name="Zee Cinema HD" group-title="HINDI",Zee Cinema HD
+http://line.lux-4k.cc/live/C69401/040F66/63581.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/%26xplor_HD_logo.png" tvg-name="And Explorer HD" group-title="HINDI",And Explorer HD
+http://line.lux-4k.cc/live/C69401/040F66/143805.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMABjYC/Discovery_TV.png" tvg-name="Discovery" group-title="INFOTAINMENT",Discovery
+http://line.lux-4k.cc/live/C69401/040F66/63315.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMCTu8m/Movies_Now.png" tvg-name="Movies Now" group-title="ENGLISH",Movies Now
+http://line.lux-4k.cc/live/C69401/040F66/112877.ts
+#EXTINF:-1 tvg-logo="https://i.im.ge/QMCTlu1/National_Geography.png" tvg-name="National Geography" group-title="INFOTAINMENT",National Geography
+http://line.lux-4k.cc/live/C69401/040F66/63570.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpvydS_Ljc-XbPUYKeHgbtl5iyD1diFZmi39B9krgRnjUIkM9h_NsgpdE&s=10" group-title="INFOTAINMENT",Animal Planet World HD
+http://line.lux-4k.cc/live/C69401/040F66/63333.ts
