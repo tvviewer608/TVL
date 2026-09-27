@@ -41,396 +41,585 @@ https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8
 https://cloudplay-sonyliv.pages.dev/bbcearthhd.m3u8
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png" group-title="SONY",Sony PIX HD
 https://cloudplay-sonyliv.pages.dev/pixhd.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla.png",Colors Bangla
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98882.ts
-#EXTINF:-1 group-title="BANGLA",Colors Bangla Cinema
-http://livetv.akr4m.com:8080/bdtv/restrem/42.m3u8
-#EXTINF:-1 group-title="BANGLA",Sun Bangla HD
-http://livetv.akr4m.com:8080/bdtv/restrem/52.m3u8
-#EXTINF:-1 group-title="BANGLA",Enter10 Bangla
-http://livetv.akr4m.com:8080/bdtv/restrem/57.m3u8
-#EXTINF:-1 group-title="BANGLA",Khusbu Bangla
-http://livetv.akr4m.com:8080/bdtv/restrem/68.m3u8
-#EXTINF:-1 group-title="BANGLA",Star Jalsha HD
-http://livetv.akr4m.com:8080/bdtv/restrem/76.m3u8
-#EXTINF:-1 group-title="BANGLA",Star Jalsha HD
-http://livetv.akr4m.com:8080/bdtv/restrem/33.m3u8
-#EXTINF:-1 group-title="BANGLA",Zee Bangla
-http://livetv.akr4m.com:8080/bdtv/restrem/35.m3u8
-#EXTINF:-1 group-title="BANGLA",Jalsha Movies HD
-http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8
-#EXTINF:-1 group-title="BANGLA",Colors Bangla Cinema
-http://livetv.akr4m.com:8080/bdtv/restrem/3.m3u8
-#EXTINF:-1 tvg-id="StarJalsha.in@HD" group-title="BANGLA",Star Jalsha HD (720p)
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 tvg-id="ZeeBangla.in@HD" group-title="BANGLA",Zee Bangla HD (720p)
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
-#EXTINF:-1 tvg-id="ZeeBanglaSonar.in@SD" group-title="BANGLA",Zee Bangla Sonar (576p)
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
-#EXTINF:-1 tvg-id="ZeeBanglaSonar.in@SD" group-title="BANGLA",Zee Bangla Sonar (576p)
-http://103.185.24.134:3001/ZEE-BANGLA-CINEMA/index.m3u8
-#EXTINF:-1 tvg-id="AakaashAath.in@SD" group-title="BANGLA",Aakaash Aath (576p)
-https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
-#EXTINF:-1 tvg-id="RupasiBangla.in@SD" group-title="BANGLA",Rupasi Bangla (576p)
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:rupashibangla.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SangeetBangla.in@SD" group-title="BANGLA",Sangeet Bangla (576p)
-https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
-#EXTINF:-1 tvg-id="DhoomMusic.in@SD" group-title="BANGLA",Dhoom Music (576p)
-https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
-#EXTINF:-1 tvg-id="AamarBangla.in@SD" group-title="BANGLA",Aamar Bangla (720p)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AKDCalcuttaNews.in@SD" group-title="BANGLA",AKD Calcutta News (1080p)
-https://live.legitpro.co.in/cnnnews/index.m3u8
-#EXTINF:-1 tvg-id="CTVNAKDPlus.in@SD" group-title="BANGLA",CTVN AKD Plus (1080p)
-https://live.legitpro.co.in/ctvnakdplus/index.m3u8
-#EXTINF:-1 tvg-id="HighNews.in@SD" group-title="BANGLA",High News (480p)
-https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
-#EXTINF:-1 tvg-id="KTVBangla.in@SD" group-title="BANGLA",KTV Bangla (720p)
-https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
-#EXTINF:-1 tvg-id="News18Bangla.in@SD" group-title="BANGLA",News18 Bangla (1080p)
-https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="RepublicBangla.in@SD" group-title="BANGLA",Republic Bangla (1080p)
-https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
-#EXTINF:-1 tvg-id="TV9Bangla.in@SD" group-title="BANGLA",TV9 Bangla (720p)
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="ZBCartoon.in@HD" group-title="BANGLA",ZB Cartoon (1080p)
-https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1 tvg-id="KhushbooBangla.in@SD" group-title="BANGLA",Khushboo Bangla (576p)
-https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8
-#EXTINF:-1 tvg-id="Enterr10Bangla.in@SD" group-title="BANGLA",Enterr 10 Bangla (576p)
-https://mumt07.tangotv.in/zHjX9OFlENTERR10BANGLA/index.m3u8
-#EXTINF:-1 tvg-id="RepublicBangla.in@SD" group-title="BANGLA",Republic Bangla (576p)
-https://streams.tangotv.in/RBANGLA/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="TV9Bangla.in@SD" group-title="BANGLA",TV9 Bangla (576p)
-https://streams.tangotv.in/TV9BANGLA/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="RPlusGold.in@SD" group-title="BANGLA",R Plus Gold (576p)
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cf883da3-f9f5-4c70-b0ef-b3ac2e2ad1e3/index.m3u8
-#EXTINF:-1 tvg-id="ColorsBangla.in@HD" group-title="BANGLA",Colors Bangla HD (1080p)
-http://103.165.93.31:8095/colorsBangla/index.m3u8
-#EXTINF:-1 tvg-id="KolkataTV.in@SD" group-title="BANGLA",Kolkata TV (576p)
-https://tvsen6.aynaott.com/kolkatatv/index.m3u8
-#EXTINF:-1 tvg-id="Zee24Ghanta.in@SD" group-title="BANGLA",Zee 24 Ghanta
-https://d2dsoyvkr33m05.cloudfront.net/index_4.m3u8
-#EXTINF:-1 tvg-name="DD Bangla" tvg-logo="https://s3.aynaott.com/storage/e5117c508d18adf0a3f2475eb1fd5a9d" group-title="BANGLA",DD Bangla
-https://iptvlive.ahmed-bd-org.workers.dev/dd-bangla-1/index.m3u8
-#EXTINF:-1 tvg-id="1369" tvg-name="Colors Bangla SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" tvg-language="Bengali" group-title="BANGLA",Colors Bangla SD
-http://27.116.22.53:5001/live/1369.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png" group-title="BANGLA",Zee Bangla HD (720p)
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="BANGLA",Star Jalsha HD
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/198.ts
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.postimg.cc/jSLNzXgM/Bengali-Beats.png",Bengali Beats
-https://iptvlive.ahmed-bd-org.workers.dev/bengali-beats-1/index.m3u8
-#EXTINF:-1 tvg-id="Zee Bangla Cinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-cinema.png" group-title="BANGLA",Zee Bangla Cinema
-https://iptvlive.ahmed-bd-org.workers.dev/zee-bangla-cinema-1/index.m3u8
-#EXTINF:-1 tvg-name="DD Bangla" tvg-logo="https://s3.aynaott.com/storage/e5117c508d18adf0a3f2475eb1fd5a9d" group-title="BANGLA",DD Bangla
-https://iptvlive.ahmed-bd-org.workers.dev/dd-bangla-1/index.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.postimg.cc/L8xzTtQY/k-Ug6WSk.jpg",ZB Cinema
-https://iptvlive.ahmed-bd-org.workers.dev/zb-cinema-1/index.m3u8
-#EXTINF:-1 tvg-id="10558" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/2065815638bang.webp" group-title="BANGLA",DD BANGLA
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8
-#EXTINF:-1 tvg-id="ABPAnanda.in@SD" group-title="BANGLA",ABP Ananda (1080p)
-https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
-#EXTINF:-1 tvg-id="NewsLiveBangla.in@SD" group-title="BANGLA",News Live Bangla (576p)
-https://cdn-6.pishow.tv/live/10003/master.m3u8
-#EXTINF:-1 group-title="SPORTS",T Sport HD
-http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCRtp8T8/IMG-1741986198658-2.png" group-title="SPORTS",STAR SPORTS 1 HD
-http://livetv.akr4m.com:8080/bdtv/restrem/39.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPQTMyHz/IMG-1741986445491-2.png" group-title="SPORTS",STAR SPORTS SELECT 1 HD
-http://livetv.akr4m.com:8080/bdtv/restrem/40.m3u8
-#EXTINF:-1 tvg-id="502" group-title="SPORTS" tvg-logo="https://i.ibb.co/h1gBmjbj/Unite8-1.png",Unite8 Sports 1 HD
-http://line.mytv-zone.com:80/live/muratdingol/UUFFWZEY6L/63506.ts
-#EXTINF:-1 tvg-id="Unite8Sports2.in@SD" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"SPORTS", like Gecko) Chrome/130.0.0.0 Safari/537.36"Sports", like Gecko) Chrome/130.0.0.0 Safari/537.36",Unite8 Sports 2 HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-http://59.103.38.46:8000/play/a126/index.m3u8
-#EXTINF:-1 tvg-id="1191" tvg-name="dd-sports-1-0" tvg-language="HIN" tvg-logo="https://assets.dishhomego.com.np/f_webp http-user-agent="Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)",q_85,w_250/dhome/posters/44c5d57c-c3bd-4ea6-a367-52c4388e5287.jpg"Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)",q_85,w_250/dhome/posters/44c5d57c-c3bd-4ea6-a367-52c4388e5287.jpg"Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)" http-referrer="https://dishhomego.com.np/" referrer="https://dishhomego.com.np/",q_85,w_250/dhome/posters/44c5d57c-c3bd-4ea6-a367-52c4388e5287.jpg" group-title="SPORTS",DD Sports HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key="{\\\"keys\\\":[{\\\"kty\\\":\\\"oct\\\",\\\"kid\\\":\\\"4TroVBdBRGiELPjeRBgirw\\\",\\\"k\\\":\\\"l41taWyLCXvIbnuSueQ8lg\\\"},{\\\"kty\\\":\\\"oct\\\",\\\"kid\\\":\\\"i14yPDyKS3eokoU4SXUu/g\\\",\\\"k\\\":\\\"FNxavC77i+NZ1mWRoynkKQ\\\"}],\\\"type\\\":\\\"temporary\\\"}"
-#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)"
-#EXTVLCOPT:http-origin=https://dishhomego.com.np
-#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
-https://ottlive.dishhome.com.np/protected/jATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
-#EXTINF: -1 tvg-id="Cricbuzz" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/600_144.png" group-title="SPORTS",Cricbuzz
-http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302020.m3u8
-#EXTINF:-1 tvg-id="CRE" tvg-name="CricLife 1" tvg-logo="https://i.ibb.co/Tspkn5Y/value.png" group-title="SPORTS",Cricbuzz 1
-http://3tv.pro/play/live.php?mac=00:1A:79:13:6F:31&stream=1106876&extension=ts
-#EXTINF:-1 tvg-id="CRE" tvg-name="Cricbuzz" tvg-logo="https://i.ibb.co/JRXs08Xx/value-1.png" group-title="SPORTS",Cricbuzz 2
-http://3tv.pro/play/live.php?mac=00:1A:79:13:6F:31&stream=1106877&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png" group-title="SPORTS",PTV Sports
-http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302016.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="SPORTS",T Sports
-http://103.185.24.134:3001/TSportsHD/index.m3u8
-#EXTINF:-1 tvg-id="ten_cricket" tvg-name="SONY TEN Cricket" tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png" group-title="SPORTS" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0",SONY TEN Cricket
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0"
-https://bd.drmlive.net/toffee/cdn/live/ten_cricket/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",NICK
-http://livetv.akr4m.com:8080/bdtv/restrem/53.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.in@SD" group-title="KIDS",Nickelodeon (576p)
-http://103.185.24.134:3001/NICK/index.m3u8
-#EXTINF:-1 tvg-id="Sonic.in@SD" group-title="KIDS",Sonic (576p)
-http://103.185.24.134:3001/SONIC/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.in@SD" group-title="KIDS",Nick Jr. (576p)
-http://103.185.24.134:3001/NICK-JR/index.m3u8
-#EXTINF: -1 tvg-id="3578" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="KIDS",Disney Channel HD
-http://datahub11.com:8080/live/9480808/9480808/19741.ts
-#EXTINF:-1 tvg-id="WOWKidz.in@Telugu" group-title="KIDS",WOW Kidz (720p)
-https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 group-title="INFOTAINMENT",National Geographic HD
-http://livetv.akr4m.com:8080/bdtv/restrem/50.m3u8
-#EXTINF:-1 group-title="INFOTAINMENT",Discovery HD
-http://livetv.akr4m.com:8080/bdtv/restrem/51.m3u8
-#EXTINF:-1 tvg-id="HistoryTV18.in@HD" group-title="INFOTAINMENT",History TV18 HD Hindi (1080p) [Geo-blocked]
-https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="IndywoodTV.in@SD" group-title="INFOTAINMENT",Indywood TV (720p)
-https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
-#EXTINF:-1 tvg-id="Travelxp.in@4KHDR" group-title="INFOTAINMENT",Travelxp 4K HDR (2160p) [Geo-blocked]
-https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.in@SD" group-title="INFOTAINMENT",National Geographic (576p) [Geo-blocked]
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla
-#EXTINF:-1 tvg-id="ZeeZest.in@HD" group-title="INFOTAINMENT",Zee Zest HD (1080p)
-http://107.167.16.138/zeezesthd/index.m3u8?token=test
-#EXTINF:-1 tvg-id="227" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-959-j5mipsnk-v1/imageContent-959-j5mipsnk-m1.png" group-title="INFOTAINMENT",Fashion TV
-https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
-#EXTINF:-1 group-title="HINDI",Star Gold
-http://livetv.akr4m.com:8080/bdtv/restrem/45.m3u8
-#EXTINF:-1 group-title="HINDI",SONY HD
-http://livetv.akr4m.com:8080/bdtv/restrem/59.m3u8
-#EXTINF:-1 group-title="HINDI",Colors HD
-http://livetv.akr4m.com:8080/bdtv/restrem/60.m3u8
-#EXTINF:-1 group-title="HINDI",StarPlus HD
-http://livetv.akr4m.com:8080/bdtv/restrem/62.m3u8
-#EXTINF:-1 group-title="HINDI",Zee Cinema HD
-http://livetv.akr4m.com:8080/bdtv/restrem/63.m3u8
-#EXTINF:-1 group-title="HINDI",Dangal
-http://livetv.akr4m.com:8080/bdtv/restrem/64.m3u8
-#EXTINF:-1 group-title="HINDI",9X Jalwa
-http://livetv.akr4m.com:8080/bdtv/restrem/70.m3u8
-#EXTINF:-1 tvg-id="YRFMusic.in@SD" group-title="HINDI",YRF Music (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id="Zing.in@SD" group-title="HINDI",Zing! (576p)
-http://103.72.101.252:8080/live/585.m3u8
-#EXTINF:-1 tvg-id="Zoom.in@SD" group-title="HINDI",Zoom (720p)
-https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1 tvg-id="9XM.in@SD" group-title="HINDI",9XM (1080p)
-https://wiselp.wiseplayout.com/9XM/master.m3u8
-#EXTINF:-1 tvg-id="MusicIndia.in@SD" group-title="HINDI",Music India (576p)
-https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="B4UMusic.in@India" group-title="HINDI",B4U Music (576p)
-https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="SangeetBhojpuri.in@SD" group-title="HINDI",Sangeet Bhojpuri (576p)
-https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
-#EXTINF:-1 tvg-id="Zing.in@SD" group-title="HINDI",Zing! (576p)
-http://107.167.16.138/zing/index.m3u8?token=test
-#EXTINF:-1 tvg-id="250" tvg-logo="https://i.imgur.com/kXTCYqg.png" group-title="HINDI",Music India
-https://amg00416-amg00416c5-samsung-in-3259.playouts.now.amagi.tv/playlist/amg00416-travelxp-musicindia-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF: -1 tvg-id="139" tvg-logo="https://tatalogo.pages.dev/139.png" group-title="HINDI",9xM
-https://wiselp.wiseplayout.com/9XM/master.m3u8
-#EXTINF: -1 tvg-id="39" tvg-logo="https://tatalogo.pages.dev/39.png" group-title="HINDI",9x Jalwa
-https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
-#EXTINF:-1 group-title="HINDI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png",YRF Music
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id="AajTak.in@HD" group-title="HINDI",Aaj Tak HD (1080p)
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1 tvg-id="Dangal2.in@SD" group-title="HINDI",Dangal 2 (720p)
-https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="DangalTV.in@SD" group-title="HINDI",Dangal TV (720p)
-https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="DDNational.in@HD" group-title="HINDI",DD National HD (576p)
-https://mumt01.tangotv.in/O5aw8Zn3DDNATIONALHD/index.m3u8
-#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" group-title="HINDI",Goldmines Bollywood (576p)
-https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
-#EXTINF:-1 tvg-id="GoldminesMovies.in@SD" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"HINDI", like Gecko) Chrome/147.0.0.0 Safari/537.36",Goldmines Movies (576p)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-http://103.175.73.12:8080/live/51/51_0.m3u8
-#EXTINF:-1 tvg-id="MTV.in@SD" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"HINDI", like Gecko) Chrome/130.0.0.0 Safari/537.36",MTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NDTVProfit.in@SD" group-title="HINDI",NDTV Profit (1080p)
-https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8
-#EXTINF:-1 tvg-id="SansadTV1.in@HD" group-title="HINDI",Sansad TV 1 HD (1080p)
-https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
-#EXTINF:-1 tvg-id="SansadTV2.in@HD" group-title="HINDI",Sansad TV 2 (1080p)
-https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
-#EXTINF:-1 tvg-id="ShemarooFilmiGaane.in@HD" group-title="HINDI",Shemaroo Filmi Gaane (1080p)
-http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8
-#EXTINF:-1 tvg-id="ShemarooJosh.in@SD" group-title="HINDI",Shemaroo Josh (720p)
-https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ShemarooTV.in@SD" group-title="HINDI",Shemaroo TV (720p)
-https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SouthStation.in@HD" group-title="HINDI",South Station (1080p)
-https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
-#EXTINF:-1 tvg-id="StarPlus.in@HD" group-title="HINDI",StarPlus HD (1080i)
-http://202.70.146.135:8000/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="TheMovieClub.in@HD" group-title="HINDI",The Movie Club (1080p)
-https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
-#EXTINF:-1 tvg-id="TheMovieClub.in@Plus2" group-title="HINDI",The Movie Club +2 (1080p)
-https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
-#EXTINF:-1 tvg-id="TV9Bharatvarsh.in@SD" group-title="HINDI",TV9 Bharatvarsh (720p)
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="WION.in@SD" group-title="HINDI",WION (1080p)
-http://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/main.m3u8
-#EXTINF:-1 tvg-id="ZeeBusiness.in@SD" group-title="HINDI",Zee Business (720p)
-https://dwby15d04agvq.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-id="ZeeCineClassic.in@SD" group-title="HINDI",Zee Cine Classic (1080p)
-https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeCinema.in@SD" group-title="HINDI",Zee Cinema (576p)
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
-#EXTINF:-1 tvg-id="ZeeCinema.in@APAC" group-title="HINDI",Zee Cinema APAC (720p)
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
-#EXTINF:-1 tvg-id="ZeeCinema.in@ME" group-title="HINDI",Zee Cinema ME (432p) [Geo-blocked]
-https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd
-#EXTINF:-1 tvg-id="ZeeDilSe.in@HD" group-title="HINDI",Zee Dil Se (1080p)
-https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeHorrorNights.in@HD" group-title="HINDI",Zee Horror Nights (1080p)
-https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeSouthFlix.in@HD" group-title="HINDI",Zee South Flix (1080p)
-https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="DangalTV.in@SD" group-title="HINDI",Dangal TV (576p)
-https://streams.tangotv.in/DANGAL/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="Dangal2.in@SD" group-title="HINDI",Dangal 2 (576p)
-https://streams.tangotv.in/DANGAL2/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="B4UKadak.in@SD" group-title="HINDI",B4U Kadak (576p)
-https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in@India" group-title="HINDI",B4U Movies (576p)
-https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="DDNews.in@SD" group-title="HINDI",DD News (576p)
-https://streams.tangotv.in/DDNEWS/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="DDIndia.in@SD" group-title="HINDI",DD India (576p)
-https://mumt05.tangotv.in/87NeALx2DDINDIA/index.m3u8
-#EXTINF:-1 tvg-id="B4UBhojpuri.in@SD" group-title="HINDI",B4U Bhojpuri (576p)
-https://streams.tangotv.in/B4UBHOJPURI/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" group-title="HINDI",Bhojpuri Cinema (576p)
-https://streams.tangotv.in/BHOJPURICINEMA/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="StarPravah.in@HD" group-title="HINDI",Star Pravah HD (720p)
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 tvg-id="StarPlus.in@HD" group-title="HINDI",StarPlus HD (1080p) [Geo-blocked]
-http://41.205.93.154/STAR-PLUS/index.m3u8
-#EXTINF:-1 tvg-id="ZeeTV.in@HD" group-title="HINDI",Zee TV HD (720p) [Geo-blocked]
-http://41.205.93.154/ZEE-TV/index.m3u8
-#EXTINF:-1 tvg-id="StarPlus.in@HD" group-title="HINDI",StarPlus HD (1080p)
-http://66.102.126.10:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="Colors.in@HD" group-title="HINDI",Colors HD (1080p)
-http://66.102.126.10:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="StarGold2.in@HD" group-title="HINDI",Star Gold 2 HD (1080p)
-http://66.102.126.10:8000/play/a077/index.m3u8
-#EXTINF:-1 tvg-id="GoldminesAction.in@SD" group-title="HINDI",Goldmines Action (576p)
-https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
-#EXTINF:-1 tvg-id="ZeeAction.in@SD" group-title="HINDI",Zee Action (576p)
-http://107.167.16.138/zeeaction/index.m3u8?token=test
-#EXTINF:-1 tvg-id="ZeeClassic.in@SD" group-title="HINDI",Zee Classic (576p)
-http://107.167.16.138/zeeclassic/index.m3u8?token=test
-#EXTINF: -1  tvg-name="South Flix" group-title="HINDI" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png",Zee South Flix
-https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="ENGLISH",Star Movies HD
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98842.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMxWAam/STAR_JALSHA.png" tvg-name="Star Jalsha" group-title="BANGLA",Star Jalsha
-http://line.lux-4k.cc/live/C69401/040F66/63525.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMY8Wgp/Zee_Bangla_logo.png" tvg-name="Zee Bangla" group-title="BANGLA",Zee Bangla
-http://line.lux-4k.cc/live/C69401/040F66/112571.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHOjT/Colors_Bangla.png" tvg-name="Colors Bangla" group-title="BANGLA",Colors Bangla
-http://line.lux-4k.cc/live/C69401/040F66/63526.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHSTL/Sun_Bangla.png" tvg-name="Sun Bangla" group-title="BANGLA",Sun Bangla
-http://line.lux-4k.cc/live/C69401/040F66/126098.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHq3x/Enterr10_Bangla.png" tvg-name="Enter 10 Bangla" group-title="BANGLA",Enter 10 Bangla
-http://line.lux-4k.cc/live/C69401/040F66/126105.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHltr/Zee_Bangla_Cinema.png" tvg-name="Zee Bangla Cinema" group-title="BANGLA",Zee Bangla Cinema
-http://line.lux-4k.cc/live/C69401/040F66/112575.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHdLG/Colors_Bangla_Cinema.png" tvg-name="Colors Cinema" group-title="BANGLA",Colors Cinema
-http://skyfilex.fun/live/22H1pUYT4/uevuKVCK81/271038.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHXqm/Jalsha_Movies_HD.png" tvg-name="Jalsha Movies" group-title="BANGLA",Jalsha Movies
-http://line.lux-4k.cc/live/C69401/040F66/1458372.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMAHrkW/Sony_Aath.png" tvg-name="Sony Aath" group-title="BANGLA",Sony Aath
-http://line.lux-4k.cc/live/C69401/040F66/108839.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMbHGcS/Aakash_Aath_Logo.png" tvg-name="Akash Bangla" group-title="BANGLA",Akash Bangla
-http://line.lux-4k.cc/live/C69401/040F66/108785.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgmRnCF97pyJ8foj88M6xsW_XfpYO4xvMEV4iwGpXzA&s=10" tvg-name="Tata Play Cinema" group-title="BANGLA",Tata Play HD
-http://line.lux-4k.cc/live/C69401/040F66/63329.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" tvg-name="News18 Bangla" group-title="BANGLA",News18 Bangla
-http://line.beemax.cc/live/CD786D/28C27D/108838.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMAB6sp/T_SPORTS.jpg" tvg-name="T Sports" group-title="SPORTS",T Sports
-http://line.beemax.cc/live/CD786D/28C27D/756462.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMbDazF/unite_sports_2.jpg" tvg-name="Unite8 Sports 2" group-title="SPORTS",Unite8 Sports 2
-http://line.lux-4k.cc/live/C69401/040F66/63547.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMEGD74/FOX_SPORTS_CRICKET.png" tvg-name="Fox 501 Cricket" group-title="SPORTS",Fox 501 Cricket
-http://pro.testbestrest.one:80/play/live.php?mac=00%3A1A%3A79%3A5E%3AF0%3AF6&stream=852135&extension=ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4xn9/A_Sports.png" tvg-name="A Sports" group-title="SPORTS",A Sports
-http://line.lux-4k.cc/live/C69401/040F66/501756.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4AQ6/Star_Sports_1_HD.png" tvg-name="Star Sports 1" group-title="SPORTS",Star Sports 1
-http://line.lux-4k.cc/live/C69401/040F66/63541.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4CLF/Star_Sports_2.png" tvg-name="Star Sports 2" group-title="SPORTS",Star Sports 2
-http://line.lux-4k.cc/live/C69401/040F66/63540.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4ExK/Star_Sports_3.png" tvg-name="Star Sports 3" group-title="SPORTS",Star Sports 3
-http://line.lux-4k.cc/live/C69401/040F66/63314.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4YqX/Star_Sports_Select_1_HD.png" tvg-name="Star Sports Select 1" group-title="SPORTS",Star Sports Select 1
-http://line.lux-4k.cc/live/C69401/040F66/63539.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4ckh/Star_Sports_Select_2_HD.png" tvg-name="Star Sports Select 2" group-title="SPORTS",Star Sports Select 2
-http://line.lux-4k.cc/live/C69401/040F66/63498.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCnikf/SONY_SportsTen1_HD.png" tvg-name="Sony Ten 1 HD" group-title="SPORTS",Sony Ten 1 HD
-http://line.lux-4k.cc/live/C69401/040F66/63537.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCn5Fm/SONY_SportsTen2_HD.png" tvg-name="Sony Ten 2 HD" group-title="SPORTS",Sony Ten 2 HD
-http://line.lux-4k.cc/live/C69401/040F66/63536.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCnUqP/Sony_Sports_Ten_3_Hindi_HD.png" tvg-name="Sony Ten 3 HD" group-title="SPORTS",Sony Ten 3 HD
-http://line.lux-4k.cc/live/C69401/040F66/63535.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4mPa/Sony_Sports_Ten_5.png" tvg-name="Sony Ten 5 HD" group-title="SPORTS",Sony Ten 5 HD
-http://line.lux-4k.cc/live/C69401/040F66/63499.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMA4P9S/PTV_Sports.png" tvg-name="PTV Sports" group-title="SPORTS",PTV Sports
-http://line.lux-4k.cc/live/C69401/040F66/99753.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMxSf00/Willow_Cricket.png" tvg-name="Willow Cricket" group-title="SPORTS",Willow Cricket
-http://line.lux-4k.cc/live/C69401/040F66/63439.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMxSVlW/Willow_Xtra.png" tvg-name="Willow Extra" group-title="SPORTS",Willow Extra
-http://vca.easy747.com:80/live/donad220/8U01MGV/1404523.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMABNyP/TEN_Cricket.png" tvg-name="Ten Sports" group-title="SPORTS",Ten Sports
-http://line.lux-4k.cc/live/C69401/040F66/99708.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-gR3y60EDmQTDmIO0ZTnSYErRR8UwtL3kKfAyYKOnA&s" tvg-name="Hungama" group-title="KIDS",Hungama
-http://euro-deluxe.com:8080/5802135f2e928826/a9ed30/1443722?play_token=xMnNwYZpau&mac=00:1A:79:0E:39:2A
-#EXTINF:-1 tvg-logo="https://i.im.ge/QM3FTK0/SUPER_HUNGAMA.png" tvg-name="Super Hungama" group-title="KIDS",Super Hungama
-http://ege09.com:8080/zeengvs6/1rg6Ckau/1443722?play_token=pMHkkzVaxU&mac=00:1A:79:08:52:3e
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMAB5oD/CARTOON_NETWORK.png" tvg-name="Cartoon Network" group-title="KIDS",Cartoon Network
-http://line.lux-4k.cc/live/C69401/040F66/112886.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCTofP/Discovery_Kids.png" tvg-name="Discovery Kids" group-title="KIDS",Discovery kids
-http://line.lux-4k.cc/live/C69401/040F66/112942.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMApnep/Duronto_TV.png" tvg-name="Duronto TV" group-title="KIDS",Duronto TV
-http://premiumtvs.space/live/PeH5kPWFfG/infamous7funny/433.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMABmBq/POGO.png" tvg-name="POGO" group-title="KIDS",POGO
-http://line.lux-4k.cc/live/C69401/040F66/112864.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMABxoW/STAR_PLUS_HD.png" tvg-name="Star Plus" group-title="HINDI",Star Plus
-http://line.lux-4k.cc/live/C69401/040F66/63563.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCn9jr/SONY_ENTERTAINMENT_HD.png" tvg-name="Sony Entertainment HD" group-title="HINDI",Sony Entertainment HD
-http://line.lux-4k.cc/live/C69401/040F66/63588.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCnjRW/SONY_SAB_HD.png" tvg-name="Sony Sab HD" group-title="HINDI",Sony Sab HD
-http://line.lux-4k.cc/live/C69401/040F66/63566.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMxwXm0/ZEE_TV.png" tvg-name="Zee TV HD" group-title="HINDI",Zee TV
-http://line.lux-4k.cc/live/C69401/040F66/63561.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMxwFhL/Colors_tv.png" tvg-name="Colors TV" group-title="HINDI",Colors TV
-http://line.lux-4k.cc/live/C69401/040F66/63576.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMxwOYG/_TV_HD.png" tvg-name="& TV" group-title="HINDI",& TV
-http://line.lux-4k.cc/live/C69401/040F66/63579.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMABAmm/SONY_MAX_HD.png" tvg-name="Sony Max HD" group-title="HINDI",Sony Max HD
-http://line.lux-4k.cc/live/C69401/040F66/63568.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMABCZr/SONY_PIX_HD.png" tvg-name="Sony Pix HD" group-title="HINDI",Sony Pix HD
-http://line.lux-4k.cc/live/C69401/040F66/63582.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMxwSaa/Colors_Cineplex.png" tvg-name="Color Cineplex" group-title="HINDI",Color Cineplex
-http://line.lux-4k.cc/live/C69401/040F66/63577.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMxwlZT/Star_Gold_HD.png" tvg-name="Star Gold HD" group-title="HINDI",Star Gold HD
-http://line.lux-4k.cc/live/C69401/040F66/63565.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMxwuoc/Star_Gold_2.png" tvg-name="Star Gold 2 HD" group-title="HINDI",Star Gold 2 HD
-http://line.lux-4k.cc/live/C69401/040F66/143806.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/SGSHD.jpg" tvg-name="Star Gold Select HD" group-title="HINDI",Star Gold Select HD
-http://line.lux-4k.cc/live/C69401/040F66/63564.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMxw1Bx/AND_PICTURES_HD.png" tvg-name="& Pictures HD" group-title="HINDI",& Pictures HD
+#EXTINF:- group-title="LUX-4K",& Pictures HD
 http://line.lux-4k.cc/live/C69401/040F66/63580.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCT2x0/Zee_Cinema_HD.png" tvg-name="Zee Cinema HD" group-title="HINDI",Zee Cinema HD
-http://line.lux-4k.cc/live/C69401/040F66/63581.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/%26xplor_HD_logo.png" tvg-name="And Explorer HD" group-title="HINDI",And Explorer HD
-http://line.lux-4k.cc/live/C69401/040F66/143805.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMABjYC/Discovery_TV.png" tvg-name="Discovery" group-title="INFOTAINMENT",Discovery
-http://line.lux-4k.cc/live/C69401/040F66/63315.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCTu8m/Movies_Now.png" tvg-name="Movies Now" group-title="ENGLISH",Movies Now
-http://line.lux-4k.cc/live/C69401/040F66/112877.ts
-#EXTINF:-1 tvg-logo="https://i.im.ge/QMCTlu1/National_Geography.png" tvg-name="National Geography" group-title="INFOTAINMENT",National Geography
-http://line.lux-4k.cc/live/C69401/040F66/63570.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpvydS_Ljc-XbPUYKeHgbtl5iyD1diFZmi39B9krgRnjUIkM9h_NsgpdE&s=10" group-title="INFOTAINMENT",Animal Planet World HD
+#EXTINF:- group-title="LUX-4K",& TV HD
+http://line.lux-4k.cc/live/C69401/040F66/63579.ts
+#EXTINF:- group-title="LUX-4K",9X Jalwa
+http://line.lux-4k.cc/live/C69401/040F66/63426.ts
+#EXTINF:- group-title="LUX-4K",ABP Ananda
+http://line.lux-4k.cc/live/C69401/040F66/112573.ts
+#EXTINF:- group-title="LUX-4K",Animal Planet HD
 http://line.lux-4k.cc/live/C69401/040F66/63333.ts
+#EXTINF:- group-title="LUX-4K",Anmol Cinema
+http://line.lux-4k.cc/live/C69401/040F66/63430.ts
+#EXTINF:- group-title="LUX-4K",Anmol TV
+http://line.lux-4k.cc/live/C69401/040F66/63429.ts
+#EXTINF:- group-title="LUX-4K",B4U Movies
+http://line.lux-4k.cc/live/C69401/040F66/63419.ts
+#EXTINF:- group-title="LUX-4K",B4U Movies
+http://line.lux-4k.cc/live/C69401/040F66/63424.ts
+#EXTINF:- group-title="LUX-4K",B4U Music
+http://line.lux-4k.cc/live/C69401/040F66/112888.ts
+#EXTINF:- group-title="LUX-4K",Bein Sports 1 English
+http://line.lux-4k.cc/live/C69401/040F66/112452.ts
+#EXTINF:- group-title="LUX-4K",Bhojpuri Cinema
+http://line.lux-4k.cc/live/C69401/040F66/112865.ts
+#EXTINF:- group-title="LUX-4K",Big Magic
+http://line.lux-4k.cc/live/C69401/040F66/63399.ts
+#EXTINF:- group-title="LUX-4K",CN HD+
+http://line.lux-4k.cc/live/C69401/040F66/112881.ts
+#EXTINF:- group-title="LUX-4K",CN HD+
+http://line.lux-4k.cc/live/C69401/040F66/112886.ts
+#EXTINF:- group-title="LUX-4K",CNBC AWAZ
+http://line.lux-4k.cc/live/C69401/040F66/112594.ts
+#EXTINF:- group-title="LUX-4K",CNBC TV18 Prime
+http://line.lux-4k.cc/live/C69401/040F66/112873.ts
+#EXTINF:- group-title="LUX-4K",Colors Bangla HD
+http://line.lux-4k.cc/live/C69401/040F66/63526.ts
+#EXTINF:- group-title="LUX-4K",Colors Cineplex HD
+http://line.lux-4k.cc/live/C69401/040F66/63577.ts
+#EXTINF:- group-title="LUX-4K",Colors HD
+http://line.lux-4k.cc/live/C69401/040F66/63576.ts
+#EXTINF:- group-title="LUX-4K",Colors Infinity HD
+http://line.lux-4k.cc/live/C69401/040F66/63519.ts
+#EXTINF:- group-title="LUX-4K",Dangal
+http://line.lux-4k.cc/live/C69401/040F66/112892.ts
+#EXTINF:- group-title="LUX-4K",DD National HD
+http://line.lux-4k.cc/live/C69401/040F66/63420.ts
+#EXTINF:- group-title="LUX-4K",DD Sports
+http://line.lux-4k.cc/live/C69401/040F66/112863.ts
+#EXTINF:- group-title="LUX-4K",Discovery HD
+http://line.lux-4k.cc/live/C69401/040F66/63517.ts
+#EXTINF:- group-title="LUX-4K",Discovery HD Hindi
+http://line.lux-4k.cc/live/C69401/040F66/63315.ts
+#EXTINF:- group-title="LUX-4K",Discovery Sci
+http://line.lux-4k.cc/live/C69401/040F66/112568.ts
+#EXTINF:- group-title="LUX-4K",Discovery Turbo
+http://line.lux-4k.cc/live/C69401/040F66/112566.ts
+#EXTINF:- group-title="LUX-4K",Disney Channel
+http://line.lux-4k.cc/live/C69401/040F66/112872.ts
+#EXTINF:- group-title="LUX-4K",Disney Channel HD
+http://line.lux-4k.cc/live/C69401/040F66/63578.ts
+#EXTINF:- group-title="LUX-4K",Disney International HD
+http://line.lux-4k.cc/live/C69401/040F66/112879.ts
+#EXTINF:- group-title="LUX-4K",Disney Jr.
+http://line.lux-4k.cc/live/C69401/040F66/112884.ts
+#EXTINF:- group-title="LUX-4K",Disney Jr.
+http://line.lux-4k.cc/live/C69401/040F66/63308.ts
+#EXTINF:- group-title="LUX-4K",E24
+http://line.lux-4k.cc/live/C69401/040F66/63421.ts
+#EXTINF:- group-title="LUX-4K",Epic TV
+http://line.lux-4k.cc/live/C69401/040F66/63587.ts
+#EXTINF:- group-title="LUX-4K",ET Now
+http://line.lux-4k.cc/live/C69401/040F66/63441.ts
+#EXTINF:- group-title="LUX-4K",Eurosport HD
+http://line.lux-4k.cc/live/C69401/040F66/63332.ts
+#EXTINF:- group-title="LUX-4K",History TV 18 HD
+http://line.lux-4k.cc/live/C69401/040F66/63515.ts
+#EXTINF:- group-title="LUX-4K",History TV 18 HD Hindi
+http://line.lux-4k.cc/live/C69401/040F66/63573.ts
+#EXTINF:- group-title="LUX-4K",Jalsha Movies HD
+http://line.lux-4k.cc/live/C69401/040F66/63524.ts
+#EXTINF:- group-title="LUX-4K",MH One
+http://line.lux-4k.cc/live/C69401/040F66/63458.ts
+#EXTINF:- group-title="LUX-4K",Miniplex HD
+http://line.lux-4k.cc/live/C69401/040F66/63572.ts
+#EXTINF:- group-title="LUX-4K",MN + HD
+http://line.lux-4k.cc/live/C69401/040F66/112878.ts
+#EXTINF:- group-title="LUX-4K",MNX HD
+http://line.lux-4k.cc/live/C69401/040F66/112876.ts
+#EXTINF:- group-title="LUX-4K",Movies Now HD
+http://line.lux-4k.cc/live/C69401/040F66/112877.ts
+#EXTINF:- group-title="LUX-4K",MTV
+http://line.lux-4k.cc/live/C69401/040F66/63571.ts
+#EXTINF:- group-title="LUX-4K",MTV HD
+http://line.lux-4k.cc/live/C69401/040F66/63585.ts
+#EXTINF:- group-title="LUX-4K",Music India
+http://line.lux-4k.cc/live/C69401/040F66/63403.ts
+#EXTINF:- group-title="LUX-4K",Nat Geo Wild HD
+http://line.lux-4k.cc/live/C69401/040F66/63481.ts
+#EXTINF:- group-title="LUX-4K",Nat Geo Wild HD Hindi
+http://line.lux-4k.cc/live/C69401/040F66/63584.ts
+#EXTINF:- group-title="LUX-4K",National Geographic HD
+http://line.lux-4k.cc/live/C69401/040F66/63514.ts
+#EXTINF:- group-title="LUX-4K",National Geographic HD
+http://line.lux-4k.cc/live/C69401/040F66/63557.ts
+#EXTINF:- group-title="LUX-4K",National Geographic HD Hindi
+http://line.lux-4k.cc/live/C69401/040F66/63570.ts
+#EXTINF:- group-title="LUX-4K",Nick HD+
+http://line.lux-4k.cc/live/C69401/040F66/63569.ts
+#EXTINF:- group-title="LUX-4K",POGO
+http://line.lux-4k.cc/live/C69401/040F66/112864.ts
+#EXTINF:- group-title="LUX-4K",Q TV
+http://line.lux-4k.cc/live/C69401/040F66/63319.ts
+#EXTINF:- group-title="LUX-4K",Sangeet Bangla
+http://line.lux-4k.cc/live/C69401/040F66/63393.ts
+#EXTINF:- group-title="LUX-4K",SET HD
+http://line.lux-4k.cc/live/C69401/040F66/63588.ts
+#EXTINF:- group-title="LUX-4K",Sony Aath
+http://line.lux-4k.cc/live/C69401/040F66/112570.ts
+#EXTINF:- group-title="LUX-4K",Sony BBC Earth HD
+http://line.lux-4k.cc/live/C69401/040F66/63495.ts
+#EXTINF:- group-title="LUX-4K",Sony BBC Earth HD
+http://line.lux-4k.cc/live/C69401/040F66/63551.ts
+#EXTINF:- group-title="LUX-4K",Sony Max HD
+http://line.lux-4k.cc/live/C69401/040F66/63568.ts
+#EXTINF:- group-title="LUX-4K",Sony PAL
+http://line.lux-4k.cc/live/C69401/040F66/112866.ts
+#EXTINF:- group-title="LUX-4K",Sony SAB HD
+http://line.lux-4k.cc/live/C69401/040F66/63566.ts
+#EXTINF:- group-title="LUX-4K",Sony Sports Ten 1 HD
+http://line.lux-4k.cc/live/C69401/040F66/63537.ts
+#EXTINF:- group-title="LUX-4K",Sony Sports Ten 2 HD
+http://line.lux-4k.cc/live/C69401/040F66/63536.ts
+#EXTINF:- group-title="LUX-4K",Sony Sports Ten 3 HD Hindi
+http://line.lux-4k.cc/live/C69401/040F66/63535.ts
+#EXTINF:- group-title="LUX-4K",Sony Sports Ten 5 HD
+http://line.lux-4k.cc/live/C69401/040F66/63499.ts
+#EXTINF:- group-title="LUX-4K",SS Television
+http://line.lux-4k.cc/live/C69401/040F66/63449.ts
+#EXTINF:- group-title="LUX-4K",Star Bharat
+http://line.lux-4k.cc/live/C69401/040F66/63484.ts
+#EXTINF:- group-title="LUX-4K",Star Gold HD
+http://line.lux-4k.cc/live/C69401/040F66/63565.ts
+#EXTINF:- group-title="LUX-4K",Star Gold Romance
+http://line.lux-4k.cc/live/C69401/040F66/112883.ts
+#EXTINF:- group-title="LUX-4K",Star Gold Select HD
+http://line.lux-4k.cc/live/C69401/040F66/63564.ts
+#EXTINF:- group-title="LUX-4K",Star Gold Thrills
+http://line.lux-4k.cc/live/C69401/040F66/63305.ts
+#EXTINF:- group-title="LUX-4K",Star Jalsha HD
+http://line.lux-4k.cc/live/C69401/040F66/63525.ts
+#EXTINF:- group-title="LUX-4K",Star Movies HD
+http://line.lux-4k.cc/live/C69401/040F66/63511.ts
+#EXTINF:- group-title="LUX-4K",Star Movies Select HD
+http://line.lux-4k.cc/live/C69401/040F66/63510.ts
+#EXTINF:- group-title="LUX-4K",Star Sports 1 HD
+http://line.lux-4k.cc/live/C69401/040F66/63541.ts
+#EXTINF:- group-title="LUX-4K",Star Sports 1 HD Hindi
+http://line.lux-4k.cc/live/C69401/040F66/63560.ts
+#EXTINF:- group-title="LUX-4K",Star Sports 1 HD Tamil
+http://line.lux-4k.cc/live/C69401/040F66/63538.ts
+#EXTINF:- group-title="LUX-4K",Star Sports 2 HD
+http://line.lux-4k.cc/live/C69401/040F66/63540.ts
+#EXTINF:- group-title="LUX-4K",Star Sports 3
+http://line.lux-4k.cc/live/C69401/040F66/63314.ts
+#EXTINF:- group-title="LUX-4K",Star Sports Select 1 HD
+http://line.lux-4k.cc/live/C69401/040F66/63539.ts
+#EXTINF:- group-title="LUX-4K",Star Sports Select 2 HD
+http://line.lux-4k.cc/live/C69401/040F66/63498.ts
+#EXTINF:- group-title="LUX-4K",Star Utsab Movies
+http://line.lux-4k.cc/live/C69401/040F66/63376.ts
+#EXTINF:- group-title="LUX-4K",StarPlus HD
+http://line.lux-4k.cc/live/C69401/040F66/63563.ts
+#EXTINF:- group-title="LUX-4K",TLC HD Hindi
+http://line.lux-4k.cc/live/C69401/040F66/63508.ts
+#EXTINF:- group-title="LUX-4K",Travelxp HD
+http://line.lux-4k.cc/live/C69401/040F66/63507.ts
+#EXTINF:- group-title="LUX-4K",Unite8 Sports 1 HD
+http://line.lux-4k.cc/live/C69401/040F66/63506.ts
+#EXTINF:- group-title="LUX-4K",Unite8 Sports 2 HD
+http://line.lux-4k.cc/live/C69401/040F66/112868.ts
+#EXTINF:- group-title="LUX-4K",Unite8 Sports 2 HD
+http://line.lux-4k.cc/live/C69401/040F66/63547.ts
+#EXTINF:- group-title="LUX-4K",WALLST Week
+http://line.lux-4k.cc/live/C69401/040F66/63416.ts
+#EXTINF:- group-title="LUX-4K",Willow Sports
+http://line.lux-4k.cc/live/C69401/040F66/63439.ts
+#EXTINF:- group-title="LUX-4K",Zee 24 Ghanta
+http://line.lux-4k.cc/live/C69401/040F66/112574.ts
+#EXTINF:- group-title="LUX-4K",Zee Bangla HD
+http://line.lux-4k.cc/live/C69401/040F66/112571.ts
+#EXTINF:- group-title="LUX-4K",Zee Bangla Sonar
+http://line.lux-4k.cc/live/C69401/040F66/112575.ts
+#EXTINF:- group-title="LUX-4K",Zee Classic
+http://line.lux-4k.cc/live/C69401/040F66/112870.ts
+#EXTINF:- group-title="LUX-4K",Zee TV HD
+http://line.lux-4k.cc/live/C69401/040F66/63561.ts
+#EXTINF:- group-title="LUX-4K",Zee Zest HD
+http://line.lux-4k.cc/live/C69401/040F66/63482.ts
+#EXTINF:- group-title="LUX-4K",ZING
+http://line.lux-4k.cc/live/C69401/040F66/63435.ts
+#EXTINF:- group-title="LUX-4K",Zoom
+http://line.lux-4k.cc/live/C69401/040F66/63442.ts
+#EXTINF:- group-title="LUX-4K",Sun Bangla HD
+http://line.lux-4k.cc/live/C69401/040F66/126098.ts
+#EXTINF:- group-title="LUX-4K",Colors Cineplex Bollywood
+http://line.lux-4k.cc/live/C69401/040F66/143804.ts
+#EXTINF:- group-title="LUX-4K",& Xplore HD
+http://line.lux-4k.cc/live/C69401/040F66/143805.ts
+#EXTINF:- group-title="LUX-4K",Star Gold HD
+http://line.lux-4k.cc/live/C69401/040F66/143806.ts
+#EXTINF:-1 group-title="BDIX",&Pictures HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281312.m3u8
+#EXTINF:-1 group-title="BDIX",&TV HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281314.m3u8
+#EXTINF:-1 group-title="BDIX",&TV HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281313.m3u8
+#EXTINF:-1 group-title="BDIX",&XPLOR HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281295.m3u8
+#EXTINF:-1 group-title="BDIX",9X Jalwa
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281304.m3u8
+#EXTINF:-1 group-title="BDIX",9X Jhakaas
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281764.m3u8
+#EXTINF:-1 group-title="BDIX",9XM
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281344.m3u8
+#EXTINF:-1 group-title="BDIX",ABP Ananda
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281679.m3u8
+#EXTINF:-1 group-title="BDIX",ABP Ananda
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281679.m3u8
+#EXTINF:-1 group-title="BDIX",Animal Planet HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281315.m3u8
+#EXTINF:-1 group-title="BDIX",Animal Planet HD Tamil
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281653.m3u8
+#EXTINF:-1 group-title="BDIX",Anmol Cinema
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281436.m3u8
+#EXTINF:-1 group-title="BDIX",Anmol TV
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281435.m3u8
+#EXTINF:-1 group-title="BDIX",B4U Kadak
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281334.m3u8
+#EXTINF:-1 group-title="BDIX",B4U Movies
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281302.m3u8
+#EXTINF:-1 group-title="BDIX",B4U Movies
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281257.m3u8
+#EXTINF:-1 group-title="BDIX",B4U Music
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281303.m3u8
+#EXTINF:-1 group-title="BDIX",CNBC Awaz
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281720.m3u8
+#EXTINF:-1 group-title="BDIX",Colors
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281256.m3u8
+#EXTINF:-1 group-title="BDIX",Colors Bangla HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281676.m3u8
+#EXTINF:-1 group-title="BDIX",Colors Cineplex
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281269.m3u8
+#EXTINF:-1 group-title="BDIX",Colors Cineplex HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281318.m3u8
+#EXTINF:-1 group-title="BDIX",Colors Rishtey
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281268.m3u8
+#EXTINF:-1 group-title="BDIX",Dangal
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281354.m3u8
+#EXTINF:-1 group-title="BDIX",DD India
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281321.m3u8
+#EXTINF:-1 group-title="BDIX",DD National HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281323.m3u8
+#EXTINF:-1 group-title="BDIX",DD Sports
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281626.m3u8
+#EXTINF:-1 group-title="BDIX",Discovery HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281661.m3u8
+#EXTINF:-1 group-title="BDIX",Discovery HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281661.m3u8
+#EXTINF:-1 group-title="BDIX",Discovery HD Hindi
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281329.m3u8
+#EXTINF:-1 group-title="BDIX",Discovery Kids
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281658.m3u8
+#EXTINF:-1 group-title="BDIX",Discovery Kids Hindi
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281658.m3u8
+#EXTINF:-1 group-title="BDIX",Discovery Turbo
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281660.m3u8
+#EXTINF:-1 group-title="BDIX",Discovery Turbo
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281660.m3u8
+#EXTINF:-1 group-title="BDIX",Disney Channel Hindi
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281356.m3u8
+#EXTINF:-1 group-title="BDIX",Epic Bharat
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281647.m3u8
+#EXTINF:-1 group-title="BDIX",EPIC Bharat
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281647.m3u8
+#EXTINF:-1 group-title="BDIX",EPIC Music
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281426.m3u8
+#EXTINF:-1 group-title="BDIX",Eurosport HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281625.m3u8
+#EXTINF:-1 group-title="BDIX",Eurosports HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281625.m3u8
+#EXTINF:-1 group-title="BDIX",Food Food
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281327.m3u8
+#EXTINF:-1 group-title="BDIX",History TV 18 HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281663.m3u8
+#EXTINF:-1 group-title="BDIX",History TV 18 HD Hindi
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281367.m3u8
+#EXTINF:-1 group-title="BDIX",Hub Sports 3
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281633.m3u8
+#EXTINF:-1 group-title="BDIX",ID HD Hindi
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281330.m3u8
+#EXTINF:-1 group-title="BDIX",Jalsha Movies HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281674.m3u8
+#EXTINF:-1 group-title="BDIX",Kappa TV
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281743.m3u8
+#EXTINF:-1 group-title="BDIX",Miniplex HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281385.m3u8
+#EXTINF:-1 group-title="BDIX",MN + HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281387.m3u8
+#EXTINF:-1 group-title="BDIX",Movies Now HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281391.m3u8
+#EXTINF:-1 group-title="BDIX",Nat Geo Wild HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281340.m3u8
+#EXTINF:-1 group-title="BDIX",Nat Geo Wild HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281666.m3u8
+#EXTINF:-1 group-title="BDIX",National Geographic HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281683.m3u8
+#EXTINF:-1 group-title="BDIX",National Geographic HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281665.m3u8
+#EXTINF:-1 group-title="BDIX",National Geographic HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281665.m3u8
+#EXTINF:-1 group-title="BDIX",National Geographic HD Hindi
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281683.m3u8
+#EXTINF:-1 group-title="BDIX",Nick HD+
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98880.ts
+#EXTINF:-1 group-title="BDIX",POGO
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281410.m3u8
+#EXTINF:-1 group-title="BDIX",Sahara One
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281421.m3u8
+#EXTINF:-1 group-title="BDIX",Sangeet Bangla
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281682.m3u8
+#EXTINF:-1 group-title="BDIX",Sangeet Bhojpuri
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281828.m3u8
+#EXTINF:-1 group-title="BDIX",SET HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281288.m3u8
+#EXTINF:-1 group-title="BDIX",SET HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281287.m3u8
+#EXTINF:-1 group-title="BDIX",SET SD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281253.m3u8
+#EXTINF:-1 group-title="BDIX",SET SD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281289.m3u8
+#EXTINF:-1 group-title="BDIX",Sony BBC Earth HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281655.m3u8
+#EXTINF:-1 group-title="BDIX",Sony BBC Earth HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281653.m3u8
+#EXTINF:-1 group-title="BDIX",Sony BBC Earth HD Hindi
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281316.m3u8
+#EXTINF:-1 group-title="BDIX",Sony BBC Earth HD Hindi
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281611.m3u8
+#EXTINF:-1 group-title="BDIX",Sony Max
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281291.m3u8
+#EXTINF:-1 group-title="BDIX",Sony Max 2
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281292.m3u8
+#EXTINF:-1 group-title="BDIX",Sony Max HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281290.m3u8
+#EXTINF:-1 group-title="BDIX",Sony PIX HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281296.m3u8
+#EXTINF:-1 group-title="BDIX",Sony SAB
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281265.m3u8
+#EXTINF:-1 group-title="BDIX",Sony SAB HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281294.m3u8
+#EXTINF:-1 group-title="BDIX",Sony SAB HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281293.m3u8
+#EXTINF:-1 group-title="BDIX",Sony Sports 2 HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281639.m3u8
+#EXTINF:-1 group-title="BDIX",Sony Sports 5 HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281629.m3u8
+#EXTINF:-1 group-title="BDIX",Sony Sports Ten 1 HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281638.m3u8
+#EXTINF:-1 group-title="BDIX",Sony Sports Ten 2 HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281639.m3u8
+#EXTINF:-1 group-title="BDIX",Sony Sports Ten 3 HD Hindi
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281640.m3u8
+#EXTINF:-1 group-title="BDIX",Sony WAH
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281300.m3u8
+#EXTINF:-1 group-title="BDIX",Sony YAY
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281612.m3u8
+#EXTINF:-1 group-title="BDIX",Sony YAY
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281301.m3u8
+#EXTINF:-1 group-title="BDIX",Sony YAY Hindi
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281796.m3u8
+#EXTINF:-1 group-title="BDIX",Star Bharat HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281284.m3u8
+#EXTINF:-1 group-title="BDIX",Star Gold HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281254.m3u8
+#EXTINF:-1 group-title="BDIX",Star Gold HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281281.m3u8
+#EXTINF:-1 group-title="BDIX",Star Gold Romance
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281343.m3u8
+#EXTINF:-1 group-title="BDIX",Star Gold Select HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281282.m3u8
+#EXTINF:-1 group-title="BDIX",Star Gold Thrills
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281342.m3u8
+#EXTINF:-1 group-title="BDIX",Star Jalsha HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281675.m3u8
+#EXTINF:-1 group-title="BDIX",Star Movies HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281643.m3u8
+#EXTINF:-1 group-title="BDIX",Star Movies HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281286.m3u8
+#EXTINF:-1 group-title="BDIX",Star Movies Select HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281644.m3u8
+#EXTINF:-1 group-title="BDIX",Star Sports 1 HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281630.m3u8
+#EXTINF:-1 group-title="BDIX",Star Sports 1 HD Hindi
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281631.m3u8
+#EXTINF:-1 group-title="BDIX",Star Sports 1 HD Hindi
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281631.m3u8
+#EXTINF:-1 group-title="BDIX",Star Sports 1 HD Tamil
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281637.m3u8
+#EXTINF:-1 group-title="BDIX",Star Sports 2 HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281632.m3u8
+#EXTINF:-1 group-title="BDIX",Star Sports Select 1 HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281635.m3u8
+#EXTINF:-1 group-title="BDIX",Star Sports Select 1 HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281635.m3u8
+#EXTINF:-1 group-title="BDIX",Star Sports Select 2 HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281636.m3u8
+#EXTINF:-1 group-title="BDIX",StarPlus
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281250.m3u8
+#EXTINF:-1 group-title="BDIX",StarPlus HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281283.m3u8
+#EXTINF:-1 group-title="BDIX",StarPlus HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281285.m3u8
+#EXTINF:-1 group-title="BDIX",T Series
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281332.m3u8
+#EXTINF:-1 group-title="BDIX",Tata Play Comedy
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281352.m3u8
+#EXTINF:-1 group-title="BDIX",TLC HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281648.m3u8
+#EXTINF:-1 group-title="BDIX",Travelxp HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281275.m3u8
+#EXTINF:-1 group-title="BDIX",Travelxp HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281649.m3u8
+#EXTINF:-1 group-title="BDIX",Unite8 Sports 1 HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281669.m3u8
+#EXTINF:-1 group-title="BDIX",Unite8 Sports 1 HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281669.m3u8
+#EXTINF:-1 group-title="BDIX",Wild HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281666.m3u8
+#EXTINF:-1 group-title="BDIX",Zee 24 Ghanta
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281677.m3u8
+#EXTINF:-1 group-title="BDIX",Zee 24 Ghanta
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281677.m3u8
+#EXTINF:-1 group-title="BDIX",Zee Action
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281297.m3u8
+#EXTINF:-1 group-title="BDIX",Zee Bangla HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281671.m3u8
+#EXTINF:-1 group-title="BDIX",Zee Bangla Sonar
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281673.m3u8
+#EXTINF:-1 group-title="BDIX",Zee Bangla Sonar
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281673.m3u8
+#EXTINF:-1 group-title="BDIX",Zee Bollywood
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281438.m3u8
+#EXTINF:-1 group-title="BDIX",Zee Business
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281437.m3u8
+#EXTINF:-1 group-title="BDIX",Zee Cinema HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281252.m3u8
+#EXTINF:-1 group-title="BDIX",Zee Cinema HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281278.m3u8
+#EXTINF:-1 group-title="BDIX",Zee TV HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281277.m3u8
+#EXTINF:-1 group-title="BDIX",Zee Zest HD
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281338.m3u8
+#EXTINF:-1 group-title="BDIX",Zing
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281255.m3u8
+#EXTINF:-1 group-title="BDIX",Zing
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281279.m3u8
+#EXTINF:-1 group-title="BDIX",Zoom
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281307.m3u8
+#EXTINF:-1 group-title="BALAJI",Zee Bangla
+http://live.balajibroadband.com:3500/live/625.m3u8
+#EXTINF:-1 group-title="BALAJI",Zee Business
+http://live.balajibroadband.com:3500/live/657.m3u8
+#EXTINF:-1 group-title="BALAJI",ABP Ananda
+http://live.balajibroadband.com:3500/live/672.m3u8
+#EXTINF:-1 group-title="BALAJI",DD Bangla
+http://live.balajibroadband.com:3500/live/690.m3u8
+#EXTINF:-1 group-title="BALAJI",Aakash Aath
+http://live.balajibroadband.com:3500/live/698.m3u8
+#EXTINF:-1 group-title="BALAJI",News 18 Bangla
+http://live.balajibroadband.com:3500/live/717.m3u8
+#EXTINF:-1 group-title="BALAJI",Sangeet Bangla
+http://live.balajibroadband.com:3500/live/740.m3u8
+#EXTINF:-1 group-title="BALAJI",Sangeet Bhojpuri
+http://live.balajibroadband.com:3500/live/741.m3u8
+#EXTINF:-1 group-title="BALAJI",MH One
+http://live.balajibroadband.com:3500/live/742.m3u8
+#EXTINF:-1 group-title="BALAJI",Music India
+http://live.balajibroadband.com:3500/live/250.m3u8
+#EXTINF:-1 group-title="BALAJI",R Plus
+http://live.balajibroadband.com:3500/live/950.m3u8
+#EXTINF:-1 group-title="BALAJI",Jalsha Movies
+http://live.balajibroadband.com:3500/live/1120.m3u8
+#EXTINF:-1 group-title="BALAJI",Star Prabah
+http://live.balajibroadband.com:3500/live/1121.m3u8
+#EXTINF:-1 group-title="BALAJI",Star Gold
+http://live.balajibroadband.com:3500/live/1125.m3u8
+#EXTINF:-1 group-title="BALAJI",Star Jalsha
+http://live.balajibroadband.com:3500/live/1126.m3u8
+#EXTINF:-1 group-title="BALAJI",Star Bharat
+http://live.balajibroadband.com:3500/live/1127.m3u8
+#EXTINF:-1 group-title="BALAJI",Star Utsab Movies
+http://live.balajibroadband.com:3500/live/1136.m3u8
+#EXTINF:-1 group-title="BALAJI",Star Sports 2
+http://live.balajibroadband.com:3500/live/1141.m3u8
+#EXTINF:-1 group-title="BALAJI",Star Sports 1
+http://live.balajibroadband.com:3500/live/1142.m3u8
+#EXTINF:-1 group-title="BALAJI",Star Utsab
+http://live.balajibroadband.com:3500/live/1143.m3u8
+#EXTINF:-1 group-title="BALAJI",Star Gold 2
+http://live.balajibroadband.com:3500/live/1154.m3u8
+#EXTINF:-1 group-title="BALAJI",CTVN AKD Plus
+http://live.balajibroadband.com:3500/live/1260.m3u8
+#EXTINF:-1 group-title="BALAJI",Calcutta News
+http://live.balajibroadband.com:3500/live/1261.m3u8
+#EXTINF:-1 group-title="BALAJI",Kolkata TV
+http://live.balajibroadband.com:3500/live/1264.m3u8
+#EXTINF:-1 group-title="BALAJI",B4U Kadak
+http://live.balajibroadband.com:3500/live/1295.m3u8
+#EXTINF:-1 group-title="BALAJI",B4U Bhojpuri
+http://live.balajibroadband.com:3500/live/1296.m3u8
+#EXTINF:-1 group-title="BALAJI",Colors Cineplex Superhit
+http://live.balajibroadband.com:3500/live/1450.m3u8
+#EXTINF:-1 group-title="BALAJI",Colors Cineplex Bollywood
+http://live.balajibroadband.com:3500/live/1763.m3u8
+#EXTINF:-1 group-title="BALAJI",Colors Ristey
+http://live.balajibroadband.com:3500/live/279.m3u8
+#EXTINF:-1 group-title="BALAJI",Star Sports 2 HD Hindi
+http://live.balajibroadband.com:3500/live/1984.m3u8
+#EXTINF:-1 group-title="BALAJI",Star Sports 2 Hindi
+http://live.balajibroadband.com:3500/live/1985.m3u8
+#EXTINF:-1 group-title="BALAJI",Star Sports Khel
+http://live.balajibroadband.com:3500/live/1998.m3u8
+#EXTINF:-1 group-title="BALAJI",Zee 24 Ghanta
+http://live.balajibroadband.com:3500/live/464.m3u8
+#EXTINF:-1 group-title="BALAJI",Zee Bangla Sonar
+http://live.balajibroadband.com:3500/live/3476.m3u8
+#EXTINF:-1 group-title="BALAJI",Sony Aath
+http://live.balajibroadband.com:3500/live/697.m3u8
+#EXTINF:-1 group-title="BALAJI",U Bangla
+http://live.balajibroadband.com:3500/live/2184.m3u8
+#EXTINF:-1 group-title="BALAJI",NH Bolly Flix
+http://live.balajibroadband.com:3500/live/3336.m3u8
+#EXTINF:-1 group-title="BALAJI",Cine Jomjomat
+http://live.balajibroadband.com:3500/live/3518.m3u8
+#EXTINF:-1 group-title="BALAJI",Journy
+http://live.balajibroadband.com:3500/live/3524.m3u8
+#EXTINF:-1 group-title="BALAJI",R Plus Gold
+http://live.balajibroadband.com:3500/live/3538.m3u8
+#EXTINF:-1 group-title="BALAJI",Eros Bollywood Cinema
+http://live.balajibroadband.com:3500/live/3543.m3u8
+#EXTINF:-1 group-title="BALAJI",Eros Entertainment
+http://live.balajibroadband.com:3500/live/3544.m3u8
+#EXTINF:-1 group-title="BALAJI",Onkar Only Truth
+http://live.balajibroadband.com:3500/live/3568.m3u8
+#EXTINF:-1 group-title="BALAJI",SET HD
+http://live.balajibroadband.com:3500/live/3509.m3u8
+#EXTINF:-1 group-title="BALAJI",Sony Max 1
+http://live.balajibroadband.com:3500/live/3418.m3u8
+#EXTINF:-1 group-title="BALAJI",Sony YAY
+http://live.balajibroadband.com:3500/live/3420.m3u8
+#EXTINF:-1 group-title="BALAJI",Sony YAY
+http://live.balajibroadband.com:3500/live/3423.m3u8
+#EXTINF:-1 group-title="BALAJI",Sony YAY
+http://live.balajibroadband.com:3500/live/3424.m3u8
+#EXTINF:-1 group-title="BALAJI",Sansad TV 1 HD
+http://live.balajibroadband.com:3500/live/3427.m3u8
+#EXTINF:-1 group-title="BALAJI",Discovery HD Bangla
+http://live.balajibroadband.com:3500/live/3428.m3u8
+#EXTINF:-1 group-title="BALAJI",Discovery HD
+http://live.balajibroadband.com:3500/live/3431.m3u8
+#EXTINF:-1 group-title="BALAJI",Investigation Discovery HD
+http://live.balajibroadband.com:3500/live/3434.m3u8
+#EXTINF:-1 group-title="BALAJI",Cartoon Network HD+
+http://live.balajibroadband.com:3500/live/3436.m3u8
+#EXTINF:-1 group-title="BALAJI",Discovery Sci
+http://live.balajibroadband.com:3500/live/3453.m3u8
+#EXTINF:-1 group-title="BALAJI",Cartoon Network
+http://live.balajibroadband.com:3500/live/3454.m3u8
+#EXTINF:-1 group-title="BALAJI",Cartoon Network HD+
+http://live.balajibroadband.com:3500/live/3455.m3u8
+#EXTINF:-1 group-title="BALAJI",TLC HD
+http://live.balajibroadband.com:3500/live/3458.m3u8
