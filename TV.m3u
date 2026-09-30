@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1
+#EXTINF:-1 Star Sports 2 HD
 http://27.116.22.53:5001/live/1109.m3u8
 #EXTINF:-1 tvg-id="SET HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png" group-title="SONYliv" group-logo="https://clarity1-tv.vercel.app/IMG/SonyLIV.png",SET HD SonyLiv
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009246&uid=8004188626&pass=61498d15
